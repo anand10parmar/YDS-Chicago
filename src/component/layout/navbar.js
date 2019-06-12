@@ -1,6 +1,6 @@
 import React from 'react'
 import {Link} from 'react-router-dom' 
-import SignedInLinks from './SignedIn.js'
+import SignedInLinks from './signedIn.js'
 import SignedOutLinks from './signedOut.js'
 
 
